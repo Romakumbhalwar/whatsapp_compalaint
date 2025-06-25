@@ -1,8 +1,4 @@
-pandas
-numpy
-scikit-learn
 streamlit
-nltk
-wordcloud
+pandas
 matplotlib
 seaborn
